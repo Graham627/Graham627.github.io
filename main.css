@@ -1,3 +1,7 @@
+* {
+    overflow: scroll;
+}
+
 body {
     height: 200vh !important;
     width: 80vw !important;
