@@ -63,10 +63,6 @@ section.services {
     margin-bottom: 10px;
     border: 5px solid black;
     border-radius: 10px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
 }
 
 section.service-additional-info {
@@ -74,10 +70,6 @@ section.service-additional-info {
     width: 97vw !important;
     border: 5px solid black;
     border-radius: 10px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
 }
 
 
@@ -88,10 +80,6 @@ div.footer {
     background-color: aquamarine !important;
     border: 5px solid black;
     border-radius: 10px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
 }
 
 /*div.footer ul {
