@@ -8,6 +8,8 @@ body {
 }
 
 #header {
+    display: flex;
+    flex-direction: row;
     height: 10% !important;
     width: 95.4vw !important;
     border: 5px solid black;
@@ -27,7 +29,6 @@ body {
 }
 
 #nav {
-    float: left;
     height: 92% !important;
     width: 79% !important;
     border: 5px solid rgb(0, 0, 0);
