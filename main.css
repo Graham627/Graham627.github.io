@@ -55,7 +55,7 @@ body {
 #nav li a {
     text-decoration: none;
     color: black;
-    padding: 5%;
+    padding: 5px;
 }
 
 section.services {
