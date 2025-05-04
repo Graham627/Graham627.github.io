@@ -45,7 +45,7 @@ body {
     text-decoration: none;
     border-radius: 5px;
     box-shadow: 10px 10px 10px #000000;
-    padding: 5px;
+    padding: 1%;
     text-transform: uppercase;
     margin-left: 8%;
     margin-right: 8%;
@@ -55,7 +55,7 @@ body {
 #nav li a {
     text-decoration: none;
     color: black;
-    padding: 2px;
+    padding: 5%;
 }
 
 section.services {
@@ -79,6 +79,16 @@ section.service-additional-info {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+section.services img {
+    height: 30%;
+    width: 20%;
+}
+
+section.service-additional-info img {
+    height: 40%;
+    width: 20%;
 }
 
 
